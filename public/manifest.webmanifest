@@ -1,0 +1,14 @@
+{
+  "name": "回声 · 智能聊天",
+  "short_name": "回声",
+  "description": "让每段对话，都被温柔记住",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f6f4ed",
+  "theme_color": "#214638",
+  "lang": "zh-CN",
+  "icons": [
+    { "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
